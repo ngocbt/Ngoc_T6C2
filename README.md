@@ -15,19 +15,21 @@ Dự án này không chỉ là nơi mình thực hành các kỹ năng đã họ
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white)
 
 #🧪 Event Management Project:
-🌟 Giới thiệu Dự án Event Management là hệ thống quản lý tổ chức sự kiện giúp người dùng dễ dàng lập kế hoạch, quản lý, và theo dõi các hoạt động của sự kiện từ giai đoạn chuẩn bị đến khi kết thúc. Mục tiêu của dự án này là cung cấp một giải pháp toàn diện để quản lý các sự kiện, bao gồm việc đăng ký, quản lý khách mời, và các hoạt động khác trong sự kiện.
+🌟 Giới thiệu Dự án Ứng dụng Nhà sách Every Taste là nền tảng sách trực tuyến giúp người dùng dễ dàng tìm kiếm, mua sách và quản lý đơn hàng. Với quản trị viên, hệ thống hỗ trợ quản lý sản phẩm, đơn hàng, người dùng và doanh thu một cách toàn diện.
+
+Ứng dụng được phát triển trên nền tảng Flutter, mang đến giao diện thân thiện và trải nghiệm người dùng trực quan, dễ sử dụng.
 
 ✨ Các bước chính trong quy trình quản lý sự kiện:
 
-📌 Phân tích yêu cầu: Hiểu rõ nhu cầu tổ chức sự kiện, số lượng khách tham dự và các hoạt động liên quan.
+📌 Phân tích yêu cầu: Hiểu rõ nhu cầu tìm kiếm, mua sách và quản lý đơn hàng.
 
-📌 Lập kế hoạch sự kiện: Xây dựng kế hoạch chi tiết bao gồm thời gian, địa điểm, lịch trình và nguồn lực cần thiết.
+📌 Lập kế hoạch: Xây dựng kế hoạch chi tiết về CSDL, hệ thống quản lý sản phẩm, đơn hàng, người dùng, doanh thu.
 
-📌 Quản lý đăng ký: Thiết lập hệ thống đăng ký và theo dõi danh sách khách mời tham gia sự kiện.
+📌 Quản lý đăng ký: Thiết lập hệ thống đăng ký và theo dõi danh sách khách hàng của ứng dụng.
 
-📌 Thực hiện sự kiện: Theo dõi tiến trình sự kiện và đảm bảo mọi hoạt động diễn ra theo đúng kế hoạch.
+📌 Thực hiện: Theo dõi tiến trình hoạt động và đảm bảo mọi hoạt động diễn ra theo đúng kế hoạch.
 
-📌 Đánh giá sau sự kiện: Tổng kết, đánh giá sự kiện, và thu thập phản hồi từ người tham gia để cải thiện cho các sự kiện tiếp theo.
+📌 Đánh giá sau trải nghiệm: Tổng kết, đánh giá cảm nhận, và thu thập phản hồi từ người tham gia để cải thiện cho các chức năng tiếp theo.
 
 
 
